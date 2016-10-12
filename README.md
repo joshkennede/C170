@@ -1,8 +1,8 @@
 # C170
 Project for Data Management - Applications
 -----------
-Tools used:
+## Tools used:
 
--MySQL Workbench
--SQL Fiddle
--Brackets
+* MySQL Workbench
+* SQL Fiddle
+* Brackets
