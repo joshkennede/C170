@@ -1,1 +1,1 @@
-CREATE INDEX donutName_index ON donut (donutName);
+CREATE INDEX donutNameIndex ON donut (donutName);
