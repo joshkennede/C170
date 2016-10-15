@@ -1,8 +1,8 @@
 INSERT INTO customer 
-(lastName, firstName, streetAddress, aptNumber, city,
+(firstName, lastName, streetAddress, aptNumber, city,
 state, zipCode, homePhone, mobilePhone, otherPhone)
-VALUES ('Joshua', 'Kennedy', '6666 Donut Time', '666', 'Lacey', 'WA',
-'98503', '3601234567', '2067894563', '2537891234');
+VALUES ('FirstName', 'LastName', '1234 Test Address', '4131', 'Mordor', 'WA',
+'99999', '3601234567', '2067894563', '2537891234');
 
 INSERT INTO salesOrder 
 (customerID, notes, orderDate)
